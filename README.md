@@ -1,7 +1,9 @@
 # hello-world
 GIS610 git test
 
-green
-red
-blue
-purple
+\begin{itemize}
+\item green
+\item red
+\item blue
+\item purple
+\end{itemize}
